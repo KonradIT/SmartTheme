@@ -1,0 +1,54 @@
+<TaskerData sr="" dvi="1" tv="4.6u3m">
+	<Task sr="task29">
+		<cdate>1424513696277</cdate>
+		<edate>1424603276936</edate>
+		<id>29</id>
+		<nme>ThemeDay</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">sed -i 's/"enable_black_theme" value="true"/"enable_black_theme" value="false"/g' /data/data/org.videolan.vlc.debug/shared_prefs/org.videolan.vlc.debug_preferences.xml</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">sed -i 's/Theme"&gt;0/Theme"&gt;2/g' /data/data/free.reddit.news/shared_prefs/SettingsV2_test.xml</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">sed -i 's/appTheme" value="0/appTheme" value="1/g' /data/data/com.ideashower.readitlater.pro/shared_prefs/com.ideashower.readitlater.pro_preferences.xml</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">sed -i 's/theme" value="2/theme" value="0/g' /data/data/de.robv.android.xposed.installer/shared_prefs/de.robv.android.xposed.installer_preferences.xml</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">sed -i 's/ui_theme"&gt;18/ui_theme"&gt;6/g' /data/data/com.huwenqi.feedlyreader.app/shared_prefs/com.huwenqi.feedlyreader.app_preferences.xml</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+</TaskerData>
