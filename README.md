@@ -16,4 +16,11 @@ The following apps are themed:
 * FeedlyReader 
 
 More coming soon 
-    
+
+##Images:
+
+![](http://i.imgur.com/YFPscee.png)
+
+###Requeriments: 
+
+rooted phone as it writes to /data
