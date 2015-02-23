@@ -11,6 +11,8 @@ The following apps are themed:
 
 * VLC 
 * Reddit News 
+* Reddit is fun 
+* Calcu
 * Pocket 
 * Xposed installer 
 * FeedlyReader 
