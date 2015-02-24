@@ -26,3 +26,7 @@ More coming soon
 ###Requeriments: 
 
 rooted phone as it writes to /data
+
+####Video
+
+http://vimeo.com/120387469
